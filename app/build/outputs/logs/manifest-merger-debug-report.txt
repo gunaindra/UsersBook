@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml:1:1-21:12
+	package
+		ADDED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml
+		INJECTED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml
+		INJECTED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml
+		INJECTED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/indra/.android/build-cache/913689e73dcde202d6edcd6dbe19d3b0ca9df814/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/indra/.android/build-cache/e1f7d5ec74dc5dd31f043f0392499d1fc26c9a1d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/indra/.android/build-cache/f50a4685b9d8aab41c323a8b67de5ee146ef5ba7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/indra/.android/build-cache/194be0f8e6be91e77f5283daa2033666863a8e12/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/indra/.android/build-cache/d8423b5e888344eff71302c453ed690a0c17b741/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/indra/.android/build-cache/f083c1bffdf43bb6d6fe0634826aa00016f6b8aa/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/indra/.android/build-cache/bf2979e98ff84814697e84bf8b3dfb021ad0a8bf/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/indra/.android/build-cache/9b76789647091bc43a15392a9598895a22eb63d7/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/indra/.android/build-cache/255d032ced2ddc0af9d863915c8f493da1361fa9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.volley:volley:1.0.0] /home/indra/.android/build-cache/b9ae76ebc3ca72338fae292589e40d03cf7786ea/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml:11:9-40
+activity#id.web.indraguna.usersbook.MainActivity
+ADDED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml:12:5-18:16
+	android:name
+		ADDED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml:12:15-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml:13:9-17:25
+action#android.intent.action.MAIN
+ADDED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml:14:13-64
+	android:name
+		ADDED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml:14:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml:16:13-72
+	android:name
+		ADDED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml:16:23-70
+uses-sdk
+INJECTED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/indra/.android/build-cache/913689e73dcde202d6edcd6dbe19d3b0ca9df814/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/indra/.android/build-cache/e1f7d5ec74dc5dd31f043f0392499d1fc26c9a1d/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/indra/.android/build-cache/f50a4685b9d8aab41c323a8b67de5ee146ef5ba7/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/indra/.android/build-cache/194be0f8e6be91e77f5283daa2033666863a8e12/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/indra/.android/build-cache/d8423b5e888344eff71302c453ed690a0c17b741/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/indra/.android/build-cache/f083c1bffdf43bb6d6fe0634826aa00016f6b8aa/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/indra/.android/build-cache/bf2979e98ff84814697e84bf8b3dfb021ad0a8bf/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/indra/.android/build-cache/9b76789647091bc43a15392a9598895a22eb63d7/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/indra/.android/build-cache/255d032ced2ddc0af9d863915c8f493da1361fa9/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.volley:volley:1.0.0] /home/indra/.android/build-cache/b9ae76ebc3ca72338fae292589e40d03cf7786ea/output/AndroidManifest.xml:7:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/indra/.android/build-cache/913689e73dcde202d6edcd6dbe19d3b0ca9df814/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml
+		INJECTED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml
+		INJECTED from /home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/indra/.android/build-cache/913689e73dcde202d6edcd6dbe19d3b0ca9df814/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/indra/.android/build-cache/e1f7d5ec74dc5dd31f043f0392499d1fc26c9a1d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/indra/.android/build-cache/f50a4685b9d8aab41c323a8b67de5ee146ef5ba7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/indra/.android/build-cache/194be0f8e6be91e77f5283daa2033666863a8e12/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/indra/.android/build-cache/d8423b5e888344eff71302c453ed690a0c17b741/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/indra/.android/build-cache/f083c1bffdf43bb6d6fe0634826aa00016f6b8aa/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/indra/.android/build-cache/bf2979e98ff84814697e84bf8b3dfb021ad0a8bf/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/indra/.android/build-cache/9b76789647091bc43a15392a9598895a22eb63d7/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/indra/.android/build-cache/255d032ced2ddc0af9d863915c8f493da1361fa9/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/indra/.android/build-cache/913689e73dcde202d6edcd6dbe19d3b0ca9df814/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/indra/.android/build-cache/913689e73dcde202d6edcd6dbe19d3b0ca9df814/output/AndroidManifest.xml:26:9-47

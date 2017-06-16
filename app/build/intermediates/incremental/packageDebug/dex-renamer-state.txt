@@ -1,0 +1,4 @@
+#Fri Jun 16 00:26:41 UTC 2017
+base.0=/home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

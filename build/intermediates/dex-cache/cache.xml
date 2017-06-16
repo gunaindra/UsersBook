@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/indra/.android/build-cache/b9ae76ebc3ca72338fae292589e40d03cf7786ea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/build/intermediates/pre-dexed/debug/classes_1c10842969acefc471cb4eaf5f8137fc516d206a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/indra/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/build/intermediates/pre-dexed/debug/gson-2.7_a02807204b3663085b8da8944de760ba7c480116.jar" />
+    </item>
+
+</items>

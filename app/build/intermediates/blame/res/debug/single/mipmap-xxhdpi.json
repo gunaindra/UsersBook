@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/indra/.android/build-cache/913689e73dcde202d6edcd6dbe19d3b0ca9df814/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/indra/.android/build-cache/913689e73dcde202d6edcd6dbe19d3b0ca9df814/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/indra/.android/build-cache/913689e73dcde202d6edcd6dbe19d3b0ca9df814/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/indra/ign/kuliah/mobile-computing/android-example/UsersBook/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/indra/.android/build-cache/913689e73dcde202d6edcd6dbe19d3b0ca9df814/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

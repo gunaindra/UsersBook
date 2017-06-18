@@ -1,10 +1,14 @@
 package id.web.indraguna.usersbook.Adapter;
 
+import android.app.Activity;
 import android.content.Context;
+import android.database.sqlite.SQLiteDatabase;
+import android.database.sqlite.SQLiteOpenHelper;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Adapter;
+import android.widget.ArrayAdapter;
 import android.widget.BaseAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
@@ -28,10 +32,16 @@ import static id.web.indraguna.usersbook.R.id.item_username;
 
 public class UserAdapter extends BaseAdapter {
     private Context context;
-    private LayoutInflater inflater = null;
+    private static LayoutInflater inflater = null;
     private List<User> userList;
 
-    private RequestQueue queue;
+    private static RequestQueue queue;
+
+    private static final int DATABASE_VERSION = 1;
+    private static final String DATABASE_NAME = "UserBook";
+    private static final String KEY_ID = "id";
+    private static final String NAME = "name";
+    private static final String USERNAME = "username";
 
     public UserAdapter(Context context, List<User> userList) {
         this.context = context;
@@ -77,10 +87,9 @@ public class UserAdapter extends BaseAdapter {
             holder = (ViewHolder) convertView.getTag();
         }
 
-        holder.item_name.setText(user.getName().toString());
-        holder.item_username.setText(user.getUsername().toString());
+        holder.item_name.setText(user.getName());
+        holder.item_username.setText(user.getUsername());
 
         return convertView;
     }
-
 }
